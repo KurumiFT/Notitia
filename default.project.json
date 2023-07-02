@@ -1,0 +1,12 @@
+{
+  "name": "Serializer",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Serializer": {
+        "$path": "src"
+      }
+    }
+  }
+}

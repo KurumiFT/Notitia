@@ -4,7 +4,7 @@
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-      "Serializer": {
+      "Notitia": {
         "$path": "src"
       }
     }

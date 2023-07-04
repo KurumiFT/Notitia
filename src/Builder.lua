@@ -1,4 +1,3 @@
-local ContentProvider = game:GetService("ContentProvider")
 -- Module for building instance
 
 return function (class_name : string) : (properties : {string : any}) -> Instance
